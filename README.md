@@ -44,7 +44,10 @@ The focus was on building interactive dashboards, automating reporting processes
 
 ## 🔑 Key Skills Demonstrated  
 - Dashboard Design & Storytelling  
-- SQL Data Extraction & Transformation  
+- SQL Data Extraction & Transformation
+
+- ## 📌 Note  
+All screenshots and SQL code are **anonymized** and use **sample data**. No confidential company data is included.    
 - Process Automation & Time Savings  
 - KPI Reporting & Cost Transparency  
 
