@@ -51,10 +51,3 @@ The focus was on building interactive dashboards, automating reporting processes
 ---
 
 ## 📂 Repository Structure  
-
-- Process Automation & Time Savings  
-- KPI Reporting & Cost Transparency  
-
----
-
-## 📂 Repository Structure  
