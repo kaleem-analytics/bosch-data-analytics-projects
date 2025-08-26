@@ -1,28 +1,28 @@
-# Bosch Data Analytics Projects  
+# Data Analytics Portfolio  
 
-This repository showcases the analytics projects I developed during my internship at **Robert Bosch GmbH, Waiblingen, Germany (02/2025 – 07/2025)**.  
-The focus was on building interactive dashboards, automating reporting processes, and improving cost and KPI visibility using **Power BI, SQL, Oracle, Azure Databricks, and SAP BW**.  
+This repository showcases the analytics projects I developed during my **Data Analytics Internship – Manufacturing Company (02/2025 – 07/2025)**.  
+The focus was on building interactive dashboards, automating reporting processes, and improving KPI and cost visibility using **Power BI, SQL, Oracle, Azure Databricks, and SAP BW**.  
 
 ---
 
-## Projects  
+## 📊 Projects  
 
 ### 1. Production Monitoring Dashboard  
-- **Description**: Real-time production monitoring dashboard that helped planners track production performance and bottlenecks.  
+- **Description**: Real-time production monitoring dashboard that helps track machine performance and bottlenecks.  
 - **Impact**: Automated updates saved ~30 minutes of planner time daily.  
 - **Tech Stack**: Power BI, SQL, Azure Databricks  
 - **Repository Content**:  
-  - Screenshot of the dashboard  
-  - SQL code used for data extraction and transformation  
+  - Screenshot of the dashboard (anonymized)  
+  - Sample SQL code used for data extraction and transformation  
 
 ---
 
 ### 2. Logistics Costs Dashboard  
 - **Description**: Dashboard providing leadership with clear cost visibility for budgeting and forecasting.  
-- **Impact**: Enhanced transparency in logistics cost reporting.  
+- **Impact**: Improved transparency in logistics cost reporting.  
 - **Tech Stack**: Power BI, SQL, Oracle  
 - **Repository Content**:  
-  - Screenshot of the dashboard  
+  - Screenshot of the dashboard (anonymized)  
 
 ---
 
@@ -31,7 +31,7 @@ The focus was on building interactive dashboards, automating reporting processes
 - **Impact**: Improved reporting efficiency by ~25%.  
 - **Tech Stack**: Power BI, SQL, Oracle, SAP BW  
 - **Repository Content**:  
-  - Screenshot of the dashboard  
+  - Screenshot of the dashboard (anonymized)  
 
 ---
 
@@ -45,6 +45,13 @@ The focus was on building interactive dashboards, automating reporting processes
 ## 🔑 Key Skills Demonstrated  
 - Dashboard Design & Storytelling  
 - SQL Data Extraction & Transformation  
+- Process Automation & Time Savings  
+- KPI Reporting & Cost Transparency  
+
+---
+
+## 📂 Repository Structure  
+
 - Process Automation & Time Savings  
 - KPI Reporting & Cost Transparency  
 
